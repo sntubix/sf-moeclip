@@ -1,2 +1,2 @@
 # sf-moeclip
-![image](assets/FSMoECLIP_v2.png)
+![image](assets/SFMoECLIP.png)
