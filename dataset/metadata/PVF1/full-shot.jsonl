@@ -1,0 +1,98 @@
+{"image_path": "RGB/20231213120737_Cam 0_0086.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/20231213120737_Cam 0_0086.png"}
+{"image_path": "RGB/20231213120737_Cam 1_0048.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/20231213120737_Cam 1_0048.png"}
+{"image_path": "RGB/20231213120811_Cam 1_3454.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/20231213120811_Cam 3_3454.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/20231213121313_Cam 1_0268.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/20231213121313_Cam 1_0268.png"}
+{"image_path": "RGB/20231213121313_Cam 2_0108.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/20231213121313_Cam 2_0476.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/20231213121313_Cam 2_1130.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/20231213121313_Cam 2_1130.png"}
+{"image_path": "RGB/BULLE_20221031_124107.864_1111001400099_l174t1060r243b1202.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/BULLE_20221031_124107.864_1111001400099_l174t1060r243b1202.png"}
+{"image_path": "RGB/BULLE_20221031_213841.148_1111001406406_l1722t585r1813b825.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/BULLE_20221031_213841.148_1111001406406_l1722t585r1813b825.png"}
+{"image_path": "RGB/BULLE_20221108_233117.911_110M90703186_l312t1040r392b1217.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/BULLE_20221117_225501.696_110M90703353_l294t434r400b602.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/BULLE_20221117_225501.696_110M90703353_l294t434r400b602.png"}
+{"image_path": "RGB/BULLE_20221118_160844.788_110MM0808102_l973t740r1073b940.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/BULLE_20221118_160844.788_110MM0808102_l973t740r1073b940.png"}
+{"image_path": "RGB/BULLE_20221123_103753.545_110MM0807869_l1754t620r1861b1126.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/BULLE_20221127_080849.592_110M80306384_l1288t231r1416b614.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/BULLE_20221212_144137.435_110M72004815_l1470t625r1588b920.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/BULLE_20221212_144137.435_110M72004815_l1470t625r1588b920.png"}
+{"image_path": "RGB/BULLE_20230415_135547.021_110MG2101938_l0t383r73b830.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/BULLE_20230415_135547.021_110MG2101938_l0t383r73b830.png"}
+{"image_path": "RGB/CORROSION_20221218_211233.505_10911450519_l601t566r648b637.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/CORROSION_20221218_211233.505_10911450519_l601t566r648b637.png"}
+{"image_path": "RGB/CORROSION_20221228_145839.747_1120101503043_l228t486r308b600.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/CORROSION_20221228_145839.747_1120101503043_l228t486r308b600.png"}
+{"image_path": "RGB/CORROSION_20230104_112302.129_1120101503699_l221t793r308b926.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/CORROSION_20230104_112302.129_1120101503699_l221t793r308b926.png"}
+{"image_path": "RGB/CORROSION_20230112_174208.983_1120101509047_l165t526r265b693.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/CORROSION_20230112_174208.983_1120101509047_l165t526r265b693.png"}
+{"image_path": "RGB/CORROSION_20230112_185711.387_1120102600045_l312t673r392b793.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/CORROSION_20230112_185711.387_1120102600045_l312t673r392b793.png"}
+{"image_path": "RGB/CORROSION_20230114_132529.075_1120101506851_l1868t766r2047b900.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/CORROSION_20230114_132529.075_1120101506851_l1868t766r2047b900.png"}
+{"image_path": "RGB/CORROSION_20230114_194316.367_1120101508548_l1334t346r1508b486.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/CORROSION_20230115_121318.844_1120101509802_l138t1146r418b1320.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/CORROSION_20230115_121318.844_1120101509802_l138t1146r418b1320.png"}
+{"image_path": "RGB/CORROSION_20230115_123904.602_1120101504224_l512t886r632b1013.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/CORROSION_20230115_123904.602_1120101504224_l512t886r632b1013.png"}
+{"image_path": "RGB/Cam 0_0126.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_12302.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_19112.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_19142.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 0_19142.png"}
+{"image_path": "RGB/Cam 0_28072.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_28082.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_30442.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_30452.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_39122.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_39132.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_39142.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 0_39142.png"}
+{"image_path": "RGB/Cam 0_39376.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_39377.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_39378.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 0_39378.png"}
+{"image_path": "RGB/Cam 0_39392.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_39412.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_4652.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_4662.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 0_4662.png"}
+{"image_path": "RGB/Cam 0_4672.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_4682.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 0_4682.png"}
+{"image_path": "RGB/Cam 0_4692.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 0_4692.png"}
+{"image_path": "RGB/Cam 0_4702.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_47232.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_48302.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 0_48302.png"}
+{"image_path": "RGB/Cam 0_48322.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_4902.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 0_4902.png"}
+{"image_path": "RGB/Cam 0_4912.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_4922.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 0_4922.png"}
+{"image_path": "RGB/Cam 0_4932.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_52432.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_52962.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_52972.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_52982.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_5992.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_6002.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_6012.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_6402.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_6412.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_6422.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_7072.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_7092.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 0_7102.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 0_7102.png"}
+{"image_path": "RGB/Cam 1_0118.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 1_0118.png"}
+{"image_path": "RGB/Cam 1_39376.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 1_39376.png"}
+{"image_path": "RGB/Cam 1_39377.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 1_39378.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 2_0124.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 2_0124.png"}
+{"image_path": "RGB/Cam 2_0152.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 2_39376.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 2_39377.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 2_39378.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 3_0114.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 3_39376.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 3_39377.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 3_39378.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 4_0106.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 4_0106.png"}
+{"image_path": "RGB/Cam 4_39376.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 4_39377.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 4_39377.png"}
+{"image_path": "RGB/Cam 4_39378.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 4_39378.png"}
+{"image_path": "RGB/Cam 5_0114.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/Cam 5_0114.png"}
+{"image_path": "RGB/Cam 5_39376.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 5_39377.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/Cam 5_39378.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/FISSURE TEDLAR_20221031_120813.861_2110912500186_l953t1068r1696b1140.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/FISSURE TEDLAR_20221031_121748.755_2110912500156_l2042t597r2047b1188.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/FISSURE TEDLAR_20221031_122714.509_2110912500265_l1559t988r1996b1045.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/FISSURE TEDLAR_20221031_125100.858_2110912500004_l920t291r1680b365.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/FISSURE TEDLAR_20221031_125100.858_2110912500004_l920t291r1680b365.png"}
+{"image_path": "RGB/FISSURE TEDLAR_20221031_125214.961_1111001406373_l550t717r1159b782.jpg", "label": 1, "class_name": "pvf1", "mask_path": "GT_binary/FISSURE TEDLAR_20221031_125214.961_1111001406373_l550t717r1159b782.png"}
+{"image_path": "RGB/FISSURE TEDLAR_20221031_212459.753_2110912500138_l910t637r1425b682.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/FISSURE TEDLAR_20221031_214048.401_2110912500267_l152t585r243b982.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/FISSURE TEDLAR_20221114_184201.937_110M90703491_l1779t345r1870b822.jpg", "label": 0, "class_name": "pvf1"}
+{"image_path": "RGB/FISSURE TEDLAR_20230227_193307.649_110673704336_l602t830r964b1004.jpg", "label": 0, "class_name": "pvf1"}
